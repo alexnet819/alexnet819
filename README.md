@@ -19,6 +19,6 @@
 # Tool/Other
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=cmake,git,vscode,raspberrypi,gitlab,github" />
+    <img src="https://skillicons.dev/icons?i=cmake,git,vscode,raspberrypi,gitlab,github,kubernetes,docker" />
   </a>
 </p>
